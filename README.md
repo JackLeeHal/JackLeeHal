@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Golang, in a Medical company
-- 🌱 I’m currently learning Rust, AI...
+- 🔭 I’m currently working on Golang in a Medical company
+- 🌱 I’m currently learning Cloud native, Rust, AI...
 - 🤔 I’m looking for help with how to implement facebook's haystack
 - 💬 Ask me about Golang, Microservices...
 - 📫 How to reach me: 695697442@qq.com
