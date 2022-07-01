@@ -10,3 +10,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackLeeHal)](https://github.com/JackLeeHal/github-readme-stats)
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JackLeeHal&column=8&theme=onedark" />
+</div>
+<br/>
