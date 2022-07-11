@@ -1,10 +1,10 @@
 ## 你好/Hello 👋
 
 ### 关于我
+- ⚡ 铲屎官🐱 + 吉他手🎸
 - 🌱 电商 + 手机银行 后端经验 Java + Golang， 目前在一家医疗相关公司任职。
 - 🤔 正在学习 AI、Rutst、云原生相关。
 - 💬 最近正在使用 Golang 实现 Facebook 的 Haystack 论文, 在这：[kitten](https://github.com/JackLeeHal/kitten)。
-- ⚡ 我同时还是摇滚乐队的吉他手!
 - 📫 欢迎联系我: 695697442@qq.com
 
 ### About me
