@@ -2,9 +2,9 @@
 
 ### 关于我
 - ⚡ 铲屎官🐱 + 吉他手🎸
-- 🌱 电商 + 手机银行 后端经验 Java + Golang， 目前在一家医疗相关公司任职。
+- 🌱 金融（全球排名前50银行手机银行部门Golang）+ 电商（Java）经验，也做过Android、React... 目前在一家医疗相关公司任职。
 - 🤔 正在学习 AI、Rutst、云原生相关。
-- 💬 最近正在使用 Golang 实现 Facebook 的 Haystack 论文, 在这：[kitten](https://github.com/JackLeeHal/kitten)。
+- 💬 最近正在学习分布式文件系统相关，使用 Golang 实现 Facebook 的 Haystack 论文, 在这：[kitten](https://github.com/JackLeeHal/kitten)。
 - 📫 欢迎联系我: 695697442@qq.com
 
 ### About me
@@ -24,7 +24,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jackleehal&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jackleehal&show_icons=true&theme=synthwave" alt="JackLeehal :: Profile Stats" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
