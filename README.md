@@ -3,13 +3,13 @@
 ### 关于我
 - ⚡ 铲屎官🐱 + 吉他手🎸
 - 🌱 金融（Top50银行的手机银行部门 -> Golang）+ 电商（四大的Deloitte -> Java）经验，也做过Android、React... 目前在一家医疗相关公司任职。
-- 🤔 学习 AI、Rutst、云原生相关ing。
+- 🤔 学习 AIGC、IOT、云原生相关ing。
 - 💬 使用 Golang 实现 Facebook 的 Haystack 论文（分布式文件存储）, 在这：[kitten](https://github.com/JackLeeHal/kitten)。
 - 📫 欢迎联系我: 695697442@qq.com
 
 ### About me
 - 🌱 E-commerce + Mobile Banking Back-end experience(Java + Golang), currently working in a medical company...
-- 🤔 I’m working on Golang and learning Cloud native, Rust, AI...
+- 🤔 I’m working on Golang and learning Cloud native, IOT, AIGC...
 - 💬 I’m implementing facebook's haystack with golang, checkout here: [kitten](https://github.com/JackLeeHal/kitten)...
 - ⚡ Fun fact: I'm a rhythm guitar player in rock band!
 - 📫 How to reach me: 695697442@qq.com
